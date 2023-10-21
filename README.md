@@ -11,4 +11,4 @@ https://meet.google.com/bio-hmps-bpr
 ## Python網路資源
 [Python標準函式庫](https://python-doc-tw.github.io/library/index.html)<br />
 [Python Standard Library](https://docs.python.org/3/library/index.html)<br />
-[PYPI](https://pypi.org/project/PyInputPlus/)
+[Python常用套件 PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/)
