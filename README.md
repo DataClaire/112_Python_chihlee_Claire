@@ -14,4 +14,5 @@ https://meet.google.com/bio-hmps-bpr
 [Python常用套件 PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/)
 
 ## 本地端平台
-[vscode] (https://code.visualstudio.com/docs/?dv=win) 以Chrome開啟
+[vscode] (https://code.visualstudio.com/docs/?dv=win) <br />
+以Chrome開啟
