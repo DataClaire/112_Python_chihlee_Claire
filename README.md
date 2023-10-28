@@ -15,4 +15,4 @@ https://meet.google.com/bio-hmps-bpr
 
 ## 本地端介面, 以Chrome開啟
 [vscode](https://code.visualstudio.com/docs/?dv=win)<br/>
-[docker desktop](https://www.docker.com/products/docker-desktop/)
+[docker desktop](https://www.docker.com/products/docker-desktop/) 在自己的電腦建立codespaces，就不用付錢了
