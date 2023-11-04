@@ -16,3 +16,14 @@ https://meet.google.com/bio-hmps-bpr
 ## 本地端介面, 以Chrome開啟
 [vscode](https://code.visualstudio.com/docs/?dv=win)<br/>
 [docker desktop](https://www.docker.com/products/docker-desktop/) 在自己的Windows電腦建立Linux系統來使用codespaces，就不用付錢了
+
+## 上課錄影檔
+[2023/10/14 上午](https://www.youtube.com/watch?v=YWTf5MMuTlY)<br />
+[2023/10/14 下午](https://www.youtube.com/watch?v=ywgZoFSFy6o)<br />
+[2023/10/21 上午](https://www.youtube.com/watch?v=mTQnQarFk0c)<br />
+[2023/10/21 下午2](https://www.youtube.com/watch?v=_D8jTDrcVkk))<br />
+[2023/10/21 下午](https://www.youtube.com/watch?v=xilBp4OW_S4)<br />
+[2023/10/28 上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)<br />
+[2023/10/28 下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)<br />
+[2023/11/4 上午]()<br />
+[2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
