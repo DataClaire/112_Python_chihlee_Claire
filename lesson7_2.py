@@ -1,34 +1,8 @@
-import random
-
-def playGame():
-    min = 1
-    max = 100
-    count = 0
-    target = random.randint(min,max)
-    print(f"答案是:{target}")
-    print("============猜數字遊戲=================\n")
-    while(True):
-        keyin = int(input(f"猜數字的範圍{min}~{max}:"))
-        count += 1
-        if(keyin >= min and keyin <= max):
-            if keyin == target:
-                print(f"賓果!猜對了, 答案是:{keyin}")
-                break
-            elif keyin > target:
-                print("再小一點")
-                max = keyin - 1
-            elif keyin < target:
-                print("再大一點")
-                min = keyin + 1
-            print(f"加油!您已經猜了{count}次")
-            continue
-        else:
-            print("請輸入提示範圍內的數字")
-    print(f"您猜了{count}次")
+import tools
 
 def main():
     while(True):
-        playGame()
+        tools.playGame()
         playAgain = input(f"您還要繼續嗎？(y,n)")
         if playAgain == "n":
             break
@@ -37,3 +11,6 @@ print("遊戲結束")
 
 if __name__ == "__main__": #(我自己的說法)如果檔名指定某個執行檔，就執行該檔。
     main()
+
+#可以有很多專案檔(py檔)，有被python執行的執行檔，其檔名之程式語言為__name__，字串是"__main__；沒被執行的就叫做module。
+#以tools.py專案檔為例，不是執行檔，是模組module，其檔名之程式語言為為__name__，字串為"__tools__"。
