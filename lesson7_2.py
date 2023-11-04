@@ -1,4 +1,5 @@
 import random
+
 def playGame():
     min = 1
     max = 100
@@ -26,9 +27,13 @@ def playGame():
     print(f"您猜了{count}次")
 
 def main():
-    playGame()""
-    print("遊戲結束")
-if __name__ == "__main__":
+    while(True):
+        playGame()
+        playAgain = input(f"您還要繼續嗎？(y,n)")
+        if playAgain == "n":
+            break
+
+print("遊戲結束")
+
+if __name__ == "__main__": #(我自己的說法)如果檔名指定某個執行檔，就執行該檔。
     main()
-
-
