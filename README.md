@@ -21,7 +21,7 @@ https://meet.google.com/bio-hmps-bpr
 [2023/10/14 上午](https://www.youtube.com/watch?v=YWTf5MMuTlY)<br />
 [2023/10/14 下午](https://www.youtube.com/watch?v=ywgZoFSFy6o)<br />
 [2023/10/21 上午](https://www.youtube.com/watch?v=mTQnQarFk0c)<br />
-[2023/10/21 下午2](https://www.youtube.com/watch?v=_D8jTDrcVkk))<br />
+[2023/10/21 下午2](https://www.youtube.com/watch?v=_D8jTDrcVkk)r />
 [2023/10/21 下午](https://www.youtube.com/watch?v=xilBp4OW_S4)<br />
 [2023/10/28 上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)<br />
 [2023/10/28 下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)<br />
