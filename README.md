@@ -26,7 +26,9 @@ https://meet.google.com/bio-hmps-bpr
 [2023/10/28 上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)<br />
 [2023/10/28 下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)<br />
 [2023/11/4 上午]()<br />
-[2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
+[2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)<br />
+[2023/11/11 上午](https://www.youtube.com/watch?v=FNED5Xou-HU)<br />
+[2023/11/11 下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
 
 ## 2023/11/4 爬蟲
 新北市 ubike api<br />
@@ -37,8 +39,12 @@ https://meet.google.com/bio-hmps-bpr
 ## Python內建三種資料結構
 1. list:串列資料 [x,x,x,x] 有順序之分，索引號由左而右從0號開始。<br />
    tuple: (x,x,x,x) 跟list很像的資料結構，差別在tuple是暫時性的資料結構，不能修改元素。簡易寫法可不加小括號()。<br />
-   for 自訂變數 in range(), range是串列資料<br />
+   for 自訂變數 in 串列資料 <br />
 2. dict:對應資料 
 3. set
+ 
+從檔案轉換成csv資料格式；
 
-## 二維list
+## pandas
+有人認為不夠用，開發了新的資料結構：延伸資料結構，放在一個套件裡，名叫pandas。
+
