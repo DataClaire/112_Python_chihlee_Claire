@@ -43,6 +43,6 @@ https://meet.google.com/bio-hmps-bpr
  
 從檔案轉換成csv資料格式；
 
-## 延伸資料結構
+## pandas
 有人認為不夠用，開發了新的資料結構：延伸資料結構，放在一個套件裡，名叫pandas。
 
