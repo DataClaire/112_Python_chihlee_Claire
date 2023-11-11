@@ -26,7 +26,9 @@ https://meet.google.com/bio-hmps-bpr
 [2023/10/28 上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)<br />
 [2023/10/28 下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)<br />
 [2023/11/4 上午]()<br />
-[2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
+[2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)<br />
+[2023/11/11 上午](https://www.youtube.com/watch?v=FNED5Xou-HU)<br />
+[2023/11/11 下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
 
 ## 2023/11/4 爬蟲
 新北市 ubike api<br />
