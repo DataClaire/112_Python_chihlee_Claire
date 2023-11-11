@@ -28,6 +28,17 @@ https://meet.google.com/bio-hmps-bpr
 [2023/11/4 上午]()<br />
 [2023/11/4 下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
-## 爬蟲
+## 2023/11/4 爬蟲
 新北市 ubike api<br />
 爬蟲：從網路上下載開放資料
+
+# 2023/11/11 Python內建的資料結構
+[online json viewer](https://jsonviewer.stack.hu/)
+## Python內建三種資料結構
+1. list:串列資料 [x,x,x,x] 有順序之分，索引號由左而右從0號開始。<br />
+   tuple: (x,x,x,x) 跟list很像的資料結構，差別在tuple是暫時性的資料結構，不能修改元素。簡易寫法可不加小括號()。<br />
+   for 自訂變數 in range(), range是串列資料<br />
+2. dict:對應資料 
+3. set
+
+## 二維list
