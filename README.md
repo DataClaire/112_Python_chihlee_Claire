@@ -6,12 +6,12 @@ https://meet.google.com/bio-hmps-bpr
 
 ## Markdown語法自修資源
 [Markdown語法說明](https://markdown.tw/)<br />
-[MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
+[Markdown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
 
 ## Python網路資源
 [Python標準函式庫](https://python-doc-tw.github.io/library/index.html)<br />
 [Python Standard Library](https://docs.python.org/3/library/index.html)<br />
-[Python常用套件 PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/)<br />
+Python常用套件 PyInputPlus0.2.12 [pyip]](https://pypi.org/project/PyInputPlus/)<br />
 [pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/frame.html)
 
 ## 本地端介面, 以Chrome開啟
@@ -56,7 +56,7 @@ https://meet.google.com/bio-hmps-bpr
 * 如果想要下載的資料被瀏覽器阻擋，要如何騙過瀏覽器？用userAgent。
 * [pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
 * 
-* 申請了render帳號。可以用Github帳密登入。可以利用render裡的免費資料庫﹔PostgreSQL。
+* 申請了render帳號。可以用Github帳密登入。可以利用render裡的免費資料庫﹔PostgreSQL來儲存資料。類似資料儲存倉庫的概念。長得很像檔案總管下拉式表單。
 * 下載pgadmins 4。是Dashboard，可以將SQL裡的資料視覺化呈現出來。
-* 學會儲存資料
-* 如果要儲存資料到AQL，要下載SQLAlchemy套件。
+* 學會儲存資料，有三種格式：csv，exsl，sql。
+* 如果要儲存資料到SQL，要下載SQLAlchemy套件。
