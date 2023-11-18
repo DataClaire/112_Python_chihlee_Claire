@@ -12,7 +12,8 @@ https://meet.google.com/bio-hmps-bpr
 [Python標準函式庫](https://python-doc-tw.github.io/library/index.html)<br />
 [Python Standard Library](https://docs.python.org/3/library/index.html)<br />
 Python常用套件，簡稱pyip [PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/)<br />
-[pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/frame.html)
+[pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/frame.html)<br />
+[pandas 說明書](https://pandas.pydata.org/docs/index.html)<br />
 
 ## 本地端介面, 以Chrome開啟
 [vscode](https://code.visualstudio.com/docs/?dv=win)<br/>
