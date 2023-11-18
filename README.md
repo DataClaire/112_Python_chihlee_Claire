@@ -48,7 +48,9 @@ https://meet.google.com/bio-hmps-bpr
 從檔案轉換成csv資料格式；
 
 ## pandas
-有人認為Python內建的資料結構不夠用，所以開發了新的資料結構：延伸資料結構。延伸資料結構的語法放在一個套件裡，名叫pandas。
+有人認為Python內建的資料結構不夠用，所以開發了新的資料結構：延伸資料結構。延伸資料結構的語法放在一個套件裡，名叫pandas。<br />
+[pandas說明書](https://pandas.pydata.org/docs/index.html)<br />
 
 # 2023/11/18 
 * 如果想要下載的資料被瀏覽器阻擋，要如何騙過瀏覽器？用userAgent。
+* [pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
