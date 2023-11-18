@@ -61,3 +61,4 @@ Python常用套件，簡稱pyip [PyInputPlus0.2.12](https://pypi.org/project/PyI
 * 下載pgadmins 4。是Dashboard，可以將SQL裡的資料視覺化呈現出來。
 * 學會儲存資料，有三種格式：csv，exsl，sql。
 * 如果要儲存資料到SQL，要下載SQLAlchemy套件。
+* 密碼一般會儲存在環境變數，避免外流。
