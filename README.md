@@ -11,7 +11,7 @@ https://meet.google.com/bio-hmps-bpr
 ## Python網路資源
 [Python標準函式庫](https://python-doc-tw.github.io/library/index.html)<br />
 [Python Standard Library](https://docs.python.org/3/library/index.html)<br />
-[Python常用套件 PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/),br />
+[Python常用套件 PyInputPlus0.2.12](https://pypi.org/project/PyInputPlus/)<br />
 [pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/frame.html)
 
 ## 本地端介面, 以Chrome開啟
@@ -31,7 +31,7 @@ https://meet.google.com/bio-hmps-bpr
 [2023/11/11 上午](https://www.youtube.com/watch?v=FNED5Xou-HU)<br />
 [2023/11/11 下午](https://www.youtube.com/watch?v=z5NiuQoStRc)<br />
 [2023/11/18 上午](https://www.youtube.com/watch?v=-K0lWABQmG4)<br />
-[2023/11/18 下午]()
+[2023/11/18 下午](https://www.youtube.com/watch?v=moTldRcI0ao)
 
 ## 2023/11/4 爬蟲
 新北市 ubike api<br />
@@ -55,3 +55,8 @@ https://meet.google.com/bio-hmps-bpr
 # 2023/11/18 
 * 如果想要下載的資料被瀏覽器阻擋，要如何騙過瀏覽器？用userAgent。
 * [pandas dataFrame 語法](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+* 
+* 申請了render帳號。可以用Github帳密登入。可以利用render裡的免費資料庫﹔PostgreSQL。
+* 下載pgadmins 4。是Dashboard，可以將SQL裡的資料視覺化呈現出來。
+* 學會儲存資料
+* 如果要儲存資料到AQL，要下載SQLAlchemy套件。
