@@ -32,7 +32,11 @@ Python常用套件，簡稱pyip [PyInputPlus0.2.12](https://pypi.org/project/PyI
 [2023/11/11 上午](https://www.youtube.com/watch?v=FNED5Xou-HU)<br />
 [2023/11/11 下午](https://www.youtube.com/watch?v=z5NiuQoStRc)<br />
 [2023/11/18 上午](https://www.youtube.com/watch?v=-K0lWABQmG4)<br />
-[2023/11/18 下午](https://www.youtube.com/watch?v=moTldRcI0ao)
+[2023/11/18 下午](https://www.youtube.com/watch?v=moTldRcI0ao)<br />
+[2023/11/25上下午](https://www.youtube.com/watch?v=vfnO7daQFgw)<br />
+[2023/11/25 下午](https://www.youtube.com/watch?v=vNmORGaGJcg)<br />
+[2023/12/1 上午](https://www.youtube.com/watch?v=rKAcwxJmSIU)<br />
+[2023/12/1 下午](https://www.youtube.com/watch?v=jRkzL2OCDh8))<br />
 
 ## 2023/11/4 爬蟲
 新北市 ubike api<br />
